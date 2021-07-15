@@ -1,4 +1,4 @@
-This is simply a python branch where I'll be uploading challenges and python code
+This is simply a repository where I'll be uploading challenges and python code
 
 15/07/2021
 Array Challenge
